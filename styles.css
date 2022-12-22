@@ -38,7 +38,7 @@ footer {
   font-family: "Indie Flower", cursive;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (max-width: 700px) {
   body {
     margin: 0 auto;
     justify-content: center;
